@@ -1,4 +1,4 @@
-[# Poissac] (https://www.poissac.com)
+[Poissac](https://www.poissac.com)
 Poissac.com is a blog that focuses on high-quality technology content.
 We are a group of passionate writers and tech enthusiasts who work together
 to provide our readers the most recent news, trends, and insights from the world of technology.
